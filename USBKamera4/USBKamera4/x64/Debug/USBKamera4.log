@@ -1,0 +1,7 @@
+﻿  USBKamera4.cpp
+D:\Coding\Projects\UPE\USBKamera4\USBKamera4\USBKamera4.cpp(129,1): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+D:\Coding\Projects\UPE\USBKamera4\USBKamera4\USBKamera4.cpp(143,1): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+D:\Coding\Projects\UPE\USBKamera4\USBKamera4\USBKamera4.cpp(157,1): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+D:\Coding\Projects\UPE\USBKamera4\USBKamera4\USBKamera4.cpp(322,56): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Coding\Projects\UPE\USBKamera4\USBKamera4\USBKamera4.cpp(466,100): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+  USBKamera4.vcxproj -> D:\Coding\Projects\UPE\USBKamera4\x64\Debug\USBKamera4.exe
